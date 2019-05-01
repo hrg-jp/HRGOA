@@ -11,5 +11,7 @@ Root
 
 1. Email:
 
-  cd Email
-  python main.py
+    ```
+    cd Email
+    python main.py
+    ```
